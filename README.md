@@ -16,3 +16,7 @@
 # Tutorial sobre DISTRIBUIÇÃO DE FREQUÊNCIA NORMAL: :chart_with_upwards_trend:
 # :pushpin: Distribuição Normal
 # :pushpin: Distribuição T de Student
+
+# Tutorial sobre TEOREMA DO LIMITE CENTRA: :chart_with_upwards_trend:
+# :pushpin: Como armazenar média em uma lista
+# :pushpin: Como calcular média, moda e mediana
