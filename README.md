@@ -12,3 +12,7 @@
 # :bar_chart: Adicionando Conceitos e tutorial de distribuição de frequência contínua
 # :pushpin: Exponencial
 # :pushpin: Beta
+
+# Tutorial sobre DISTRIBUIÇÃO DE FREQUÊNCIA NORMAL: :chart_with_upwards_trend:
+# :pushpin: Distribuição Normal
+# :pushpin: Distribuição T de Student
